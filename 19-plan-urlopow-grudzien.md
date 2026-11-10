@@ -4,7 +4,7 @@
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
-**Data:** 2026-11-09 09:15  
+**Data:** 1994-11-09 09:15  
 **Temat:** Plan urlopów na grudzień i okres świąteczny
 
 Cześć Alexander,
@@ -18,7 +18,7 @@ Harry Thompson
 
 **Od:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **Do:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
-**Data:** 2026-11-09 13:00  
+**Data:** 1994-11-09 13:00  
 **Temat:** Re: Plan urlopów na grudzień i okres świąteczny
 
 Cześć Harry,
@@ -32,7 +32,7 @@ Alexander Hartley
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
-**Data:** 2026-11-09 14:20  
+**Data:** 1994-11-09 14:20  
 **Temat:** Re: Plan urlopów na grudzień i okres świąteczny
 
 Lista będzie jutro rano. Przygotuję też zestawienie dla pracowników z dzieckiem do lat 14 – mają pierwszeństwo przy zbieżnych terminach.

@@ -4,7 +4,7 @@
 
 **Od:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-11-04 09:00  
+**Data:** 1994-11-04 09:00  
 **Temat:** Obowiązkowe szkolenie z cyberbezpieczeństwa
 
 Cześć Amelia,
@@ -18,7 +18,7 @@ Samuel Wainwright
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
-**Data:** 2026-11-04 11:20  
+**Data:** 1994-11-04 11:20  
 **Temat:** Re: Obowiązkowe szkolenie z cyberbezpieczeństwa
 
 Cześć Samuel,
@@ -32,7 +32,7 @@ Amelia Clarke
 
 **Od:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-11-04 12:00  
+**Data:** 1994-11-04 12:00  
 **Temat:** Re: Obowiązkowe szkolenie z cyberbezpieczeństwa
 
 Świetnie. Dodajmy krótki test sprawdzający, bo ostatnio 18% osób klikało w symulowane maile phishingowe.

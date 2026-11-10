@@ -4,7 +4,7 @@
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-11-02 09:30  
+**Data:** 1994-11-02 09:30  
 **Temat:** Plan sukcesji dla kluczowych stanowisk
 
 Oliver,
@@ -18,7 +18,7 @@ Eleanor Hughes
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
-**Data:** 2026-11-02 16:00  
+**Data:** 1994-11-02 16:00  
 **Temat:** Re: Plan sukcesji dla kluczowych stanowisk
 
 Eleanor, wstępnie: dla 9 stanowisk nie mamy gotowego następcy, w tym dla Dyrektora Zakładu i Szefa Utrzymania Ruchu. Proponuję ścieżki rozwojowe i ewentualne rekrutacje zewnętrzne dla 3 pozycji.
@@ -30,7 +30,7 @@ Oliver Bennett
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-11-03 08:15  
+**Data:** 1994-11-03 08:15  
 **Temat:** Re: Plan sukcesji dla kluczowych stanowisk
 
 Zrób proszę prezentację na posiedzenie zarządu 20.11. Zaangażuj Amelię w plan szkoleń dla potencjalnych następców.

@@ -4,7 +4,7 @@
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
-**Data:** 2026-10-13 09:10  
+**Data:** 1994-10-13 09:10  
 **Temat:** Legalizacja zatrudnienia pracowników z Ukrainy
 
 Cześć Edward,
@@ -18,7 +18,7 @@ Harry Thompson
 
 **Od:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
 **Do:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
-**Data:** 2026-10-13 14:30  
+**Data:** 1994-10-13 14:30  
 **Temat:** Re: Legalizacja zatrudnienia pracowników z Ukrainy
 
 Cześć Harry,
@@ -32,7 +32,7 @@ Edward Sutton
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
-**Data:** 2026-10-13 15:10  
+**Data:** 1994-10-13 15:10  
 **Temat:** Re: Legalizacja zatrudnienia pracowników z Ukrainy
 
 Super, dziękuję. Umówię spotkania informacyjne z pracownikami po zmianach, aby rozwiać wątpliwości.

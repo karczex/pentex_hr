@@ -4,12 +4,12 @@
 
 **Od:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
 **Do:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
-**Data:** 2026-10-15 09:00  
+**Data:** 1994-10-15 09:00  
 **Temat:** Zmiana grafiku zmianowego w magazynie
 
 Cześć Emily,
 
-chcemy wprowadzić system 4-brygadowy w magazynie od 1.01.2027. Czy mamy obowiązek konsultacji z pracownikami lub związkami?
+chcemy wprowadzić system 4-brygadowy w magazynie od 1.01.1995. Czy mamy obowiązek konsultacji z pracownikami lub związkami?
 
 Pozdrawiam,  
 Thomas Redmond
@@ -18,7 +18,7 @@ Thomas Redmond
 
 **Od:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
 **Do:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
-**Data:** 2026-10-15 13:00  
+**Data:** 1994-10-15 13:00  
 **Temat:** Re: Zmiana grafiku zmianowego w magazynie
 
 Cześć Thomas,
@@ -32,7 +32,7 @@ Emily Cartwright
 
 **Od:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
 **Do:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
-**Data:** 2026-10-15 13:40  
+**Data:** 1994-10-15 13:40  
 **Temat:** Re: Zmiana grafiku zmianowego w magazynie
 
 Dziękuję, proszę o priorytet – chcemy wdrożyć ją przed szczytem sezonowym.

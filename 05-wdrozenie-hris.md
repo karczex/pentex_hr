@@ -4,7 +4,7 @@
 
 **Od:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
 **Do:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
-**Data:** 2026-10-02 09:30  
+**Data:** 1994-10-02 09:30  
 **Temat:** Wdrożenie nowego systemu HRIS – plan migracji danych
 
 Cześć Benjamin,
@@ -18,7 +18,7 @@ Jack Holloway
 
 **Od:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
 **Do:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
-**Data:** 2026-10-02 11:00  
+**Data:** 1994-10-02 11:00  
 **Temat:** Re: Wdrożenie nowego systemu HRIS – plan migracji danych
 
 Cześć Jack,
@@ -32,7 +32,7 @@ Benjamin Archer
 
 **Od:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
 **Do:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
-**Data:** 2026-10-02 11:20  
+**Data:** 1994-10-02 11:20  
 **Temat:** Re: Wdrożenie nowego systemu HRIS – plan migracji danych
 
 Przyjęte. Do 12.10 wyślę skrypty migracyjne do przeglądu, a dane testowe zanonimizujemy zgodnie z wymogami Samuela.

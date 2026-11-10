@@ -1,15 +1,15 @@
-# Plan i budżet szkoleń na 2027
+# Plan i budżet szkoleń na 1995
 
 ---
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-11-10 09:00  
-**Temat:** Plan i budżet szkoleń na 2027
+**Data:** 1994-11-10 09:00  
+**Temat:** Plan i budżet szkoleń na 1995
 
 Cześć Victoria,
 
-przesyłam plan szkoleń na 2027: 1,9 mln zł (obecnie 1,6 mln). Największe zwiększenia to Akademia Liderów i program mentoringowy. Czy możesz wskazać, które pozycje są zagrożone cięciami?
+przesyłam plan szkoleń na 1995: 1,9 mln zł (obecnie 1,6 mln). Największe zwiększenia to Akademia Liderów i program mentoringowy. Czy możesz wskazać, które pozycje są zagrożone cięciami?
 
 Pozdrawiam,  
 Amelia Clarke
@@ -18,8 +18,8 @@ Amelia Clarke
 
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-11-10 11:20  
-**Temat:** Re: Plan i budżet szkoleń na 2027
+**Data:** 1994-11-10 11:20  
+**Temat:** Re: Plan i budżet szkoleń na 1995
 
 Cześć Amelia,
 
@@ -32,8 +32,8 @@ Victoria Pearce
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-11-10 12:00  
-**Temat:** Re: Plan i budżet szkoleń na 2027
+**Data:** 1994-11-10 12:00  
+**Temat:** Re: Plan i budżet szkoleń na 1995
 
 Przeliczę scenariusz z limitem 1,76 mln zł. Wersję zaktualizowaną wyślę do końca tygodnia.
 

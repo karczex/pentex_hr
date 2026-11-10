@@ -4,7 +4,7 @@
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
-**Data:** 2026-10-23 10:00  
+**Data:** 1994-10-23 10:00  
 **Temat:** Dofinansowanie nauki – zmiana zasad
 
 Cześć George,
@@ -18,7 +18,7 @@ Amelia Clarke
 
 **Od:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-10-23 13:45  
+**Data:** 1994-10-23 13:45  
 **Temat:** Re: Dofinansowanie nauki – zmiana zasad
 
 Cześć Amelia,
@@ -32,7 +32,7 @@ George Whitfield
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
-**Data:** 2026-10-23 14:20  
+**Data:** 1994-10-23 14:20  
 **Temat:** Re: Dofinansowanie nauki – zmiana zasad
 
 Dziękuję, prześlę mu projekt jeszcze dziś. Nowe zasady chciałabym ogłosić w styczniu.

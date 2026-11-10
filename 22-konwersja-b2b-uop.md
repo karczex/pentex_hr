@@ -4,7 +4,7 @@
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
-**Data:** 2026-09-09 10:30  
+**Data:** 1994-09-09 10:30  
 **Temat:** Konwersja współpracowników B2B na umowę o pracę
 
 Cześć Edward,
@@ -18,7 +18,7 @@ Oliver Bennett
 
 **Od:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-09-09 15:40  
+**Data:** 1994-09-09 15:40  
 **Temat:** Re: Konwersja współpracowników B2B na umowę o pracę
 
 Cześć Oliver,
@@ -32,7 +32,7 @@ Edward Sutton
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
-**Data:** 2026-09-10 08:05  
+**Data:** 1994-09-10 08:05  
 **Temat:** Re: Konwersja współpracowników B2B na umowę o pracę
 
 Dziękuję. Zamówię opinię i przygotuję symulację kosztów po stronie firmy dla każdego z wariantów wynagrodzenia.

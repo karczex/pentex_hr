@@ -4,7 +4,7 @@
 
 **Od:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
 **Do:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
-**Data:** 2026-10-30 09:00  
+**Data:** 1994-10-30 09:00  
 **Temat:** Ocena ryzyka psychospołecznego w pracy
 
 Cześć Emily,
@@ -18,7 +18,7 @@ William Ashford
 
 **Od:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
 **Do:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
-**Data:** 2026-10-30 12:20  
+**Data:** 1994-10-30 12:20  
 **Temat:** Re: Ocena ryzyka psychospołecznego w pracy
 
 Cześć William,
@@ -32,7 +32,7 @@ Emily Cartwright
 
 **Od:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
 **Do:** Emily Cartwright (Relacje Pracownicze) <emily.cartwright@pentex.com>  
-**Data:** 2026-10-30 13:00  
+**Data:** 1994-10-30 13:00  
 **Temat:** Re: Ocena ryzyka psychospołecznego w pracy
 
 Dobrze, wstępny termin warsztatów to 18.11. Raport z oceny przekażę do końca grudnia.

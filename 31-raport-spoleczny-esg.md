@@ -4,7 +4,7 @@
 
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-09-03 09:00  
+**Data:** 1994-09-03 09:00  
 **Temat:** Raport ESG – dane kadrowe do sprawozdania
 
 Cześć Oliver,
@@ -18,7 +18,7 @@ Victoria Pearce
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-09-03 14:20  
+**Data:** 1994-09-03 14:20  
 **Temat:** Re: Raport ESG – dane kadrowe do sprawozdania
 
 Cześć Victoria,
@@ -32,7 +32,7 @@ Oliver Bennett
 
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-09-03 15:00  
+**Data:** 1994-09-03 15:00  
 **Temat:** Re: Raport ESG – dane kadrowe do sprawozdania
 
 Dziękuję. Dane muszą być zgodne ze stanem na 31.08 i opatrzone źródłem, bo audytor będzie je weryfikował.

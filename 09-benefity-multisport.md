@@ -4,12 +4,12 @@
 
 **Od:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
 **Do:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
-**Data:** 2026-10-14 09:10  
+**Data:** 1994-10-14 09:10  
 **Temat:** Zmiany w pakiecie benefitów – karta sportowa
 
 Cześć Harry,
 
-dostawca kart sportowych podnosi ceny od 1.01.2027 średnio o 8%. Rozważamy zostawienie dopłaty pracodawcy na obecnym poziomie 60% i pokrycie różnicy przez pracownika. Czy potrafisz oszacować wpływ na potrącenia w listach płac?
+dostawca kart sportowych podnosi ceny od 1.01.1995 średnio o 8%. Rozważamy zostawienie dopłaty pracodawcy na obecnym poziomie 60% i pokrycie różnicy przez pracownika. Czy potrafisz oszacować wpływ na potrącenia w listach płac?
 
 Pozdrawiam,  
 George Whitfield
@@ -18,7 +18,7 @@ George Whitfield
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
-**Data:** 2026-10-14 14:00  
+**Data:** 1994-10-14 14:00  
 **Temat:** Re: Zmiany w pakiecie benefitów – karta sportowa
 
 Cześć George,
@@ -32,7 +32,7 @@ Harry Thompson
 
 **Od:** George Whitfield (Wynagrodzenia i Benefity) <george.whitfield@pentex.com>  
 **Do:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
-**Data:** 2026-10-14 15:20  
+**Data:** 1994-10-14 15:20  
 **Temat:** Re: Zmiany w pakiecie benefitów – karta sportowa
 
 Super, w takim razie komunikat wyjdzie do 1.12. Dam znać, jeśli zarząd zdecyduje inaczej.

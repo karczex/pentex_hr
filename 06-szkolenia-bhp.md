@@ -4,7 +4,7 @@
 
 **Od:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
 **Do:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
-**Data:** 2026-10-05 08:30  
+**Data:** 1994-10-05 08:30  
 **Temat:** Szkolenia BHP – harmonogram na IV kwartał
 
 Cześć Thomas,
@@ -18,7 +18,7 @@ William Ashford
 
 **Od:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
 **Do:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
-**Data:** 2026-10-05 12:15  
+**Data:** 1994-10-05 12:15  
 **Temat:** Re: Szkolenia BHP – harmonogram na IV kwartał
 
 Cześć William,
@@ -32,7 +32,7 @@ Thomas Redmond
 
 **Od:** William Ashford (BHP i Compliance) <william.ashford@pentex.com>  
 **Do:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
-**Data:** 2026-10-05 13:00  
+**Data:** 1994-10-05 13:00  
 **Temat:** Re: Szkolenia BHP – harmonogram na IV kwartał
 
 Dobrze, 20.10, 27.10 i 29.10. Wyślę listy imienne w ciągu 2 dni. Osoby, które nie zdążą, dostaną szkolenie e-learningowe z egzaminem.

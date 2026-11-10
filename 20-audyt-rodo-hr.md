@@ -4,7 +4,7 @@
 
 **Od:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
 **Do:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
-**Data:** 2026-11-10 09:00  
+**Data:** 1994-11-10 09:00  
 **Temat:** Audyt RODO w obszarze HR
 
 Cześć Jack,
@@ -18,7 +18,7 @@ Samuel Wainwright
 
 **Od:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
 **Do:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
-**Data:** 2026-11-10 10:45  
+**Data:** 1994-11-10 10:45  
 **Temat:** Re: Audyt RODO w obszarze HR
 
 Cześć Samuel,
@@ -32,7 +32,7 @@ Jack Holloway
 
 **Od:** Samuel Wainwright (Bezpieczeństwo Informacji) <samuel.wainwright@pentex.com>  
 **Do:** Jack Holloway (HRIS) <jack.holloway@pentex.com>  
-**Data:** 2026-11-10 11:30  
+**Data:** 1994-11-10 11:30  
 **Temat:** Re: Audyt RODO w obszarze HR
 
 Świetnie, proszę o zgłoszenie zmiany do CAB. Dla istniejących rekordów zróbmy jednorazowe czyszczenie z raportem dla Inspektora Ochrony Danych.

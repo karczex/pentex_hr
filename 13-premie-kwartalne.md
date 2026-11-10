@@ -4,7 +4,7 @@
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-10-28 09:00  
+**Data:** 1994-10-28 09:00  
 **Temat:** Rozliczenie premii kwartalnych Q3
 
 Cześć Victoria,
@@ -18,7 +18,7 @@ Harry Thompson
 
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
-**Data:** 2026-10-28 14:30  
+**Data:** 1994-10-28 14:30  
 **Temat:** Re: Rozliczenie premii kwartalnych Q3
 
 Cześć Harry,
@@ -32,7 +32,7 @@ Victoria Pearce
 
 **Od:** Harry Thompson (Kadry i Płace) <harry.thompson@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-10-28 15:05  
+**Data:** 1994-10-28 15:05  
 **Temat:** Re: Rozliczenie premii kwartalnych Q3
 
 OK, wypłata główna 10.11, a region południowy po decyzji. Dodam to do notatki dla audytu.

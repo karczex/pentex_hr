@@ -4,7 +4,7 @@
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Daniel Fletcher (IT) <daniel.fletcher@pentex.com>  
-**Data:** 2026-09-14 08:50  
+**Data:** 1994-09-14 08:50  
 **Temat:** Onboarding nowych pracowników – grupa październikowa
 
 Cześć Daniel,
@@ -18,7 +18,7 @@ Oliver Bennett
 
 **Od:** Daniel Fletcher (IT) <daniel.fletcher@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-09-14 10:20  
+**Data:** 1994-09-14 10:20  
 **Temat:** Re: Onboarding nowych pracowników – grupa październikowa
 
 Cześć Oliver,
@@ -32,7 +32,7 @@ Daniel Fletcher
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Daniel Fletcher (IT) <daniel.fletcher@pentex.com>  
-**Data:** 2026-09-14 10:45  
+**Data:** 1994-09-14 10:45  
 **Temat:** Re: Onboarding nowych pracowników – grupa październikowa
 
 Laptopy zastępcze w zupełności wystarczą. Dziękuję za szybką odpowiedź, dam znać managerom.

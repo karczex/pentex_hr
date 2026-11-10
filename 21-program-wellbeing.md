@@ -1,11 +1,11 @@
-# Program wellbeing – plan działań na 2027
+# Program wellbeing – plan działań na 1995
 
 ---
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-09-02 09:00  
-**Temat:** Program wellbeing – plan działań na 2027
+**Data:** 1994-09-02 09:00  
+**Temat:** Program wellbeing – plan działań na 1995
 
 Amelia,
 
@@ -18,8 +18,8 @@ Eleanor Hughes
 
 **Od:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
-**Data:** 2026-09-02 13:25  
-**Temat:** Re: Program wellbeing – plan działań na 2027
+**Data:** 1994-09-02 13:25  
+**Temat:** Re: Program wellbeing – plan działań na 1995
 
 Eleanor, jasne. Wstępne wyceny: 140–190 zł za sesję. Dla 2 200 pracowników przy 15% wykorzystaniu koszt to ok. 270 tys. zł rocznie. Przygotuję porównanie i propozycję pilotażu w dwóch lokalizacjach.
 
@@ -30,8 +30,8 @@ Amelia Clarke
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Amelia Clarke (Rozwój i Szkolenia) <amelia.clarke@pentex.com>  
-**Data:** 2026-09-02 14:00  
-**Temat:** Re: Program wellbeing – plan działań na 2027
+**Data:** 1994-09-02 14:00  
+**Temat:** Re: Program wellbeing – plan działań na 1995
 
 Pilotaż to dobry pomysł. Dodaj wskaźniki: absencja i wyniki ankiety zaangażowania przed i po.
 

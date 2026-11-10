@@ -4,7 +4,7 @@
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-11-10 13:00  
+**Data:** 1994-11-10 13:00  
 **Temat:** Podsumowanie roku HR – raport dla zarządu
 
 Oliver,
@@ -18,7 +18,7 @@ Eleanor Hughes
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
-**Data:** 2026-11-10 14:10  
+**Data:** 1994-11-10 14:10  
 **Temat:** Re: Podsumowanie roku HR – raport dla zarządu
 
 Eleanor, rozpisałem zadania: Charlotte – rekrutacja, Harry – płace i absencje, Amelia – szkolenia, George – wynagrodzenia. Szablon prezentacji prześlę dziś.
@@ -30,10 +30,10 @@ Oliver Bennett
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-11-10 14:30  
+**Data:** 1994-11-10 14:30  
 **Temat:** Re: Podsumowanie roku HR – raport dla zarządu
 
-Świetnie. Dodaj proszę slajd z planami na 2027 i głównymi ryzykami, w tym rotacją i jawnością wynagrodzeń.
+Świetnie. Dodaj proszę slajd z planami na 1995 i głównymi ryzykami, w tym rotacją i jawnością wynagrodzeń.
 
 Pozdrawiam,  
 Eleanor Hughes

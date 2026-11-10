@@ -4,7 +4,7 @@
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
-**Data:** 2026-09-15 09:30  
+**Data:** 1994-09-15 09:30  
 **Temat:** Onboarding zdalny – wysyłka sprzętu i procedury
 
 Cześć Lucy,
@@ -18,7 +18,7 @@ Oliver Bennett
 
 **Od:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-09-15 11:10  
+**Data:** 1994-09-15 11:10  
 **Temat:** Re: Onboarding zdalny – wysyłka sprzętu i procedury
 
 Cześć Oliver,
@@ -32,7 +32,7 @@ Lucy Pritchard
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
-**Data:** 2026-09-15 11:35  
+**Data:** 1994-09-15 11:35  
 **Temat:** Re: Onboarding zdalny – wysyłka sprzętu i procedury
 
 Wszystkie dane prześlę dziś w zaszyfrowanym pliku. Dodatkowo zaplanuję wirtualne powitanie z zespołem.

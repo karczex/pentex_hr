@@ -4,7 +4,7 @@
 
 **Od:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
 **Do:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
-**Data:** 2026-09-30 10:00  
+**Data:** 1994-09-30 10:00  
 **Temat:** Spotkanie wigilijne dla pracowników – organizacja
 
 Cześć Grace,
@@ -18,7 +18,7 @@ Lucy Pritchard
 
 **Od:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
 **Do:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
-**Data:** 2026-09-30 13:20  
+**Data:** 1994-09-30 13:20  
 **Temat:** Re: Spotkanie wigilijne dla pracowników – organizacja
 
 Cześć Lucy,
@@ -32,7 +32,7 @@ Grace Houghton
 
 **Od:** Lucy Pritchard (Administracja) <lucy.pritchard@pentex.com>  
 **Do:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
-**Data:** 2026-09-30 14:00  
+**Data:** 1994-09-30 14:00  
 **Temat:** Re: Spotkanie wigilijne dla pracowników – organizacja
 
 Tak, ale potrzebuję potwierdzenia od IT, że sala ma odpowiednie łącze. Zapytam Daniela.

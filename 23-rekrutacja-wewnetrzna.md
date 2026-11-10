@@ -4,7 +4,7 @@
 
 **Od:** Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>  
 **Do:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
-**Data:** 2026-09-16 09:40  
+**Data:** 1994-09-16 09:40  
 **Temat:** Rekrutacja wewnętrzna – awanse na stanowiska team leaderów
 
 Cześć Thomas,
@@ -18,7 +18,7 @@ Charlotte Davies
 
 **Od:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
 **Do:** Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>  
-**Data:** 2026-09-16 12:10  
+**Data:** 1994-09-16 12:10  
 **Temat:** Re: Rekrutacja wewnętrzna – awanse na stanowiska team leaderów
 
 Cześć Charlotte,
@@ -32,7 +32,7 @@ Thomas Redmond
 
 **Od:** Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>  
 **Do:** Thomas Redmond (Dyrektor Produkcji) <thomas.redmond@pentex.com>  
-**Data:** 2026-09-16 12:45  
+**Data:** 1994-09-16 12:45  
 **Temat:** Re: Rekrutacja wewnętrzna – awanse na stanowiska team leaderów
 
 Oczywiście, dodam. Wyniki i rekomendacje prześlę do 5.10.

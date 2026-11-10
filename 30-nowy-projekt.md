@@ -5,7 +5,7 @@
 **Od:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **DW:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
-**Data:** 2026-11-02 09:10  
+**Data:** 1994-11-02 09:10  
 **Temat:** Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Eleanor,
@@ -26,7 +26,7 @@ Alexander Hartley
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>, Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>  
 **DW:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
-**Data:** 2026-11-02 11:00  
+**Data:** 1994-11-02 11:00  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Oliver, Charlotte,
@@ -46,7 +46,7 @@ Eleanor
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **DW:** Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>  
-**Data:** 2026-11-04 15:30  
+**Data:** 1994-11-04 15:30  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Eleanor,
@@ -66,7 +66,7 @@ Oliver
 **Od:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **Do:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>, Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **DW:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>, Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-11-05 09:20  
+**Data:** 1994-11-05 09:20  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Dziękuję za analizę. Przechodząc do kwestii merytorycznych, potrzebuję szybkiej odpowiedzi na trzy pytania, żeby HR mógł dopasować profile ról:
@@ -84,7 +84,7 @@ Alexander
 **Od:** Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>  
 **Do:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **DW:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>, Victoria Pearce (Finanse) <victoria.pearce@pentex.com>, Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
-**Data:** 2026-11-09 16:45  
+**Data:** 1994-11-09 16:45  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Alexander,
@@ -116,7 +116,7 @@ Edward
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **DW:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>, Edward Sutton (Dział Prawny) <edward.sutton@pentex.com>, Benjamin Archer (PMO) <benjamin.archer@pentex.com>  
-**Data:** 2026-11-10 10:15  
+**Data:** 1994-11-10 10:15  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Alexander,
@@ -137,14 +137,14 @@ Victoria
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **DW:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>, Charlotte Davies (Specjalista ds. Rekrutacji) <charlotte.davies@pentex.com>, Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-11-10 14:00  
+**Data:** 1994-11-10 14:00  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Alexander,
 
 na podstawie wkładu Edwarda i Victorii proponujemy następujący plan HR:
 
-1. **Zespół rdzeniowy (do 31.01.2027):** 30 osób – dyrektor programu, szef techniczny ds. jądrowych, szef ds. nieruchomości, szef ds. urbanistyki, szef ds. relacji z samorządami i przesiedleń, 6 prawników, 8 negocjatorów, 4 specjalistów ds. środowiska, kierownik PMO i zespół. Mix: 8 osób z wewnątrz, 22 z zewnątrz.
+1. **Zespół rdzeniowy (do 31.01.1995):** 30 osób – dyrektor programu, szef techniczny ds. jądrowych, szef ds. nieruchomości, szef ds. urbanistyki, szef ds. relacji z samorządami i przesiedleń, 6 prawników, 8 negocjatorów, 4 specjalistów ds. środowiska, kierownik PMO i zespół. Mix: 8 osób z wewnątrz, 22 z zewnątrz.
 2. **Dalsze skalowanie:** ok. 400 osób w ciągu 12 miesięcy, w kolejnych latach docelowo kilka tysięcy zatrudnionych bezpośrednio i kilkadziesiąt tysięcy w łańcuchu wykonawców. Konieczne utworzenie osobnej spółki projektowej i centrum rekrutacyjnego.
 3. **Widełki:** eksperci jądrowi – 32–48 tys. $ brutto/mies. + premia projektowa do 20%; pozostałe role według obowiązującej siatki, +10–15% dla ról deficytowych.
 4. **Rekrutacja:** wyszukiwanie bezpośrednie (executive search) dla 20 ról kluczowych, rekrutacja międzynarodowa dla ekspertów jądrowych, równolegle ogłoszenia o charakterze neutralnym, bez nazwy projektu. Umowy z klauzulami poufności i zakazem konkurencji.
@@ -160,7 +160,7 @@ Eleanor
 **Od:** Alexander Hartley (Dyrektor Operacyjny) <alexander.hartley@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **DW:** Benjamin Archer (PMO) <benjamin.archer@pentex.com>, Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-11-10 16:20  
+**Data:** 1994-11-10 16:20  
 **Temat:** Re: Projekt „Aurora" – budowa nowego miasta: obsada kadrowa, elektrownia jądrowa, grunty i linia przesyłowa
 
 Eleanor,

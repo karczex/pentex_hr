@@ -4,7 +4,7 @@
 
 **Od:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-10-26 10:10  
+**Data:** 1994-10-26 10:10  
 **Temat:** Targi pracy – logistyka i budżet
 
 Cześć Victoria,
@@ -18,7 +18,7 @@ Sophie Marshall
 
 **Od:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
 **Do:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
-**Data:** 2026-10-26 15:00  
+**Data:** 1994-10-26 15:00  
 **Temat:** Re: Targi pracy – logistyka i budżet
 
 Cześć Sophie,
@@ -32,7 +32,7 @@ Victoria Pearce
 
 **Od:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
 **Do:** Victoria Pearce (Finanse) <victoria.pearce@pentex.com>  
-**Data:** 2026-10-27 08:40  
+**Data:** 1994-10-27 08:40  
 **Temat:** Re: Targi pracy – logistyka i budżet
 
 Uzupełnione. Wybrany dostawca jest o 5% droższy, ale zapewnia transport i montaż w cenie. Uzasadnienie w pliku.

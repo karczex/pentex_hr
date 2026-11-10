@@ -4,7 +4,7 @@
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
-**Data:** 2026-10-12 10:00  
+**Data:** 1994-10-12 10:00  
 **Temat:** Badanie zaangażowania pracowników – wyniki wstępne
 
 Eleanor,
@@ -18,7 +18,7 @@ Oliver Bennett
 
 **Od:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
 **Do:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
-**Data:** 2026-10-12 11:35  
+**Data:** 1994-10-12 11:35  
 **Temat:** Re: Badanie zaangażowania pracowników – wyniki wstępne
 
 Dobra wiadomość, szczególnie wzrost eNPS. Proszę przygotować 3 rekomendacje dla zarządu dotyczące komunikacji i zaplanujmy warsztaty z managerami.
@@ -30,7 +30,7 @@ Eleanor Hughes
 
 **Od:** Oliver Bennett (HR Business Partner) <oliver.bennett@pentex.com>  
 **Do:** Eleanor Hughes (Dyrektor HR) <eleanor.hughes@pentex.com>  
-**Data:** 2026-10-12 12:00  
+**Data:** 1994-10-12 12:00  
 **Temat:** Re: Badanie zaangażowania pracowników – wyniki wstępne
 
 Zrobi się. Zaproponuję cykliczne spotkania cross-funkcyjne i uproszczenie kanałów informacji. Współpracuję przy tym z Grace z komunikacji.

@@ -4,7 +4,7 @@
 
 **Od:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
 **Do:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
-**Data:** 2026-10-08 09:00  
+**Data:** 1994-10-08 09:00  
 **Temat:** Kampania „Różnorodność i włączanie”
 
 Cześć Grace,
@@ -18,7 +18,7 @@ Sophie Marshall
 
 **Od:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
 **Do:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
-**Data:** 2026-10-08 12:30  
+**Data:** 1994-10-08 12:30  
 **Temat:** Re: Kampania „Różnorodność i włączanie”
 
 Cześć Sophie,
@@ -32,7 +32,7 @@ Grace Houghton
 
 **Od:** Sophie Marshall (Employer Branding) <sophie.marshall@pentex.com>  
 **Do:** Grace Houghton (Komunikacja Wewnętrzna) <grace.houghton@pentex.com>  
-**Data:** 2026-10-08 13:15  
+**Data:** 1994-10-08 13:15  
 **Temat:** Re: Kampania „Różnorodność i włączanie”
 
 Super, dziękuję. Poprosimy też o zgodę osób biorących udział w wywiadach na publikację wizerunku.
